@@ -34,4 +34,16 @@ Assuming it's still using a raspberry pi 4, this should all apply
 
 Download an image of the raspberry pi operating system <https://www.raspberrypi.com/software/>
 
-Take that raspberry pi image and flash the micro usb with something like [BalenaEtcher](https://etcher.balena.io/) or Raspberry pi imager
+Take that raspberry pi image and flash the micro usb with something like [BalenaEtcher](https://etcher.balena.io/) or [Raspberry pi imager](https://www.raspberrypi.com/software/)
+
+Once you have the image installed on the micro sd card and boot up the raspberry pi, you'll need a keyboard and preferrably a mouse for setup
+
+Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages
+
+You can go to whatever browser you want, but make sure to go into the settings of that browser and see that tabs or windows on sign out or on close get closed
+
+We are going to use a script to launch whatever browser you choose to use. This example script will be for mercury and if the default user is named pi
+
+Go to the desktop and right click the background and create a new file ending in .sh. Open this file in any text editor and input the following example or your own script: 
+
+'/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk'
