@@ -34,11 +34,11 @@ Assuming it's still using a raspberry pi 4, this should all apply
 
 Download an image of the raspberry pi operating system <https://www.raspberrypi.com/software/>
 
-Take that raspberry pi image and flash the micro usb with something like [BalenaEtcher](https://etcher.balena.io/) or [Raspberry pi imager](https://www.raspberrypi.com/software/)
+Take that raspberry pi image and flash the micro sd with something like [BalenaEtcher](https://etcher.balena.io/) or [Raspberry pi imager](https://www.raspberrypi.com/software/)
 
 Once you have the image installed on the micro sd card and boot up the raspberry pi, you'll need a keyboard and preferrably a mouse for setup
 
-Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages
+Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages (make sure to download the ARM64.deb version since raspberry pi 4 uses an ARM cpu)
 
 You can go to whatever browser you want, but make sure to go into the settings of that browser and see that tabs or windows on sign out or on close get closed
 
