@@ -47,3 +47,5 @@ We are going to use a script to launch whatever browser you choose to use. This 
 Go to the desktop and right click the background and create a new file ending in .sh. Open this file in any text editor and input the following example or your own script: 
 
 write: <code>/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk </code>
+
+The general format of this script is to just launch the web browser of choice, open it in it's own kiosk mode (if available) and then go to a specified link
