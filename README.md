@@ -46,4 +46,4 @@ We are going to use a script to launch whatever browser you choose to use. This 
 
 Go to the desktop and right click the background and create a new file ending in .sh. Open this file in any text editor and input the following example or your own script: 
 
-'/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk'
+''/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk''
