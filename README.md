@@ -40,6 +40,10 @@ Once you have the image installed on the micro sd card and boot up the raspberry
 
 Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages (make sure to download the ARM64.deb version since raspberry pi 4 uses an ARM cpu)
 
+###### Short note: To install mercury, go to the downloads folder in a terminal after downloading the latest ARM64 release and run the following command: 
+
+<code>sudo dpkg -i ./full-file-name.deb</code>
+
 You can go to whatever browser you want, but make sure to go into the settings of that browser and see that tabs or windows on sign out or on close get closed
 
 We are going to use a script to launch whatever browser you choose to use. This example script will be for mercury and if the default user is named pi
