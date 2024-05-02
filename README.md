@@ -10,18 +10,16 @@ General setup link: <https://arcade.makecode.com/hardware/kiosk>
 
 MakeCode's Kiosk version has a few options. These options are added at the end of the URL. 
 These options are: 
-* `/kiosk?clean=1` and
-* `/kiosk?lock=1`
 
+* `/kiosk?clean=1`, which will get rid of the default games microsoft puts in the kiosk by default. 
+* `/kiosk?lock=1`, which will not let people add or delete games to the kiosk.
 
-The first option will get rid of the default games microsoft puts in the kiosk by default. 
-The second option will not let people add or delete games to the kiosk. 
-You can combine them if you want with /kiosk?lock=1&clean=1. 
-Kids can make their own games on MakeCodes main website to then upload to the kiosk. 
-To upload games to the machine, follow the setup page linked above. 
+*You can also combine them if you want, with `/kiosk?lock=1&clean=1`.*
+
+Kids can make their own games on MakeCode's main website to then upload to the kiosk. 
+*To upload games to the machine, follow the setup page linked above.*
+
 That concludes general setup with an already setup machine and games. 
-
-
 
 # How to setup the machine from scratch
 
@@ -39,7 +37,7 @@ Preferrably, use a more optimized browser like [mercury](https://github.com/Alex
 
 ###### Short note: To install mercury, go to the downloads folder in a terminal after downloading the latest ARM64 release and run the following command: 
 
-<code>sudo dpkg -i ./full-file-name.deb</code>
+`sudo dpkg -i ./full-file-name.deb`
 
 You can go to whatever browser you want, but make sure to go into the settings of that browser and see that tabs or windows on sign out or on close get closed.
 
@@ -47,7 +45,7 @@ We are going to use a script to launch whatever browser you choose to use. This 
 
 Go to the desktop and right click the background and create a new file ending in .sh. Open this file in any text editor and input the following example or your own script: 
 
-<code>/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk </code>
+`/lib/mercury/mercury -kiosk https://arcade.makecode.com/kiosk`
 
 The general format of this script is to just launch the web browser of choice, open it in it's own kiosk mode (if available) and then go to a specified link.
 
