@@ -14,7 +14,7 @@ For those who don't know, `.bashrc` stores information about the current user's 
 
 ## Mercury loader
 
-This script, fully documented, is located in [this repo](mercury_loader.sh). 
+This script, fully documented, is located in [this file](mercury_loader.sh). 
 
 While it is not strictly necessary that you understand what it does, I know that someone will, so here are a few resources to help parse this file:
 * [Bash cheatsheet](https://devhints.io/bash)
