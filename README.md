@@ -4,11 +4,11 @@
 
 useful links:
 
-[MakeCode Arcade](https://arcade.makecode.com)
+* [MakeCode Arcade](https://arcade.makecode.com)
 
-[MakeCode Arcade Kiosk Page](https://arcade.makecode.com/kiosk)
+* [MakeCode Arcade Kiosk Page](https://arcade.makecode.com/kiosk)
 
-[General Kiosk Setup Page](https://arcade.makecode.com/hardware/kiosk)
+* [General Kiosk Setup Page](https://arcade.makecode.com/hardware/kiosk)
 
 MakeCode's Kiosk version has a few options. These options are added at the end of the URL. 
 These options are: 
