@@ -1,9 +1,9 @@
 # Guide - how to setup the machine from scratch
 
-### Guide Shortcuts
+### Guide shortcuts
 
-* [Browser Setup](/BROWSER.md)
-* [Script Setup](/SCRIPTS.md)
+* [Browser setup](/BROWSER.md)
+* [Script setup](/SCRIPTS.md)
 * [Case construction](/CONSTRUCTION.md)
 
 ## Raspberry pi setup
