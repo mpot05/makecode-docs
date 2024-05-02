@@ -14,7 +14,7 @@ Preferrably, use a more optimized browser like [mercury](https://github.com/Alex
 
 ###### Short note: To install mercury, go to the downloads folder in a terminal after downloading the latest ARM64 release and run the following command: 
 
-`sudo dpkg -i ./full-file-name.deb`
+`sudo dpkg -i ./[FILE NAME].deb`
 
 *If you opt to use another browser, please note that you will have to modify the script files in order for it to work properly. In addition, some browsers may not have the same functionality as firefox or mercury.*
 
