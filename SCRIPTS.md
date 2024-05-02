@@ -30,6 +30,6 @@ once this is done, we can move on to modifying the `./bashrc` file.
 
 ## Using bash for personal gain
 
-All that needs to be done to get this to work is to add the contents of [this file](sinppets/bashrc_snippet.sh) to the end of the `.bashrc` file, located again in `~`. 
+All that needs to be done to get this to work is to add the contents of [this file](snippets/bashrc_snippet.sh) to the end of the `.bashrc` file, located again in `~`. 
 
 once that's done, simply restart the pi or make a new terminal tab, wait ~10 seconds, and bask in unrivaled relief that this thing is *finally* done after several months of blood, sweat and tears, but mostly tears.
