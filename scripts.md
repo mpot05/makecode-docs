@@ -2,6 +2,7 @@
 
 ## PAGES
 * [Home](/README.md)
+* [Browser Setup](/BROWSER.md)
 * [Scripts](#)
 
 To get the cabinet to work, two scripts have to be written to:
@@ -14,7 +15,7 @@ For those who don't know, `.bashrc` stores information about the current user's 
 
 ## Mercury loader
 
-This script, fully documented, is located in [this file](mercury_loader.sh). 
+This script, fully documented, is located in [this file](snippets/mercury_loader.sh). 
 
 While it is not strictly necessary that you understand what it does, I know that someone will, so here are a few resources to help parse this file:
 * [Bash cheatsheet](https://devhints.io/bash)
@@ -29,6 +30,6 @@ once this is done, we can move on to modifying the `./bashrc` file.
 
 ## Using bash for personal gain
 
-All that needs to be done to get this to work is to add the contents of [this file](bashrc_snippet.sh) to the end of the `.bashrc` file, located again in `~`. 
+All that needs to be done to get this to work is to add the contents of [this file](sinppets/bashrc_snippet.sh) to the end of the `.bashrc` file, located again in `~`. 
 
 once that's done, simply restart the pi or make a new terminal tab, wait ~10 seconds, and bask in unrivaled relief that this thing is *finally* done after several months of blood, sweat and tears, but mostly tears.
