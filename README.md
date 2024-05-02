@@ -1,5 +1,9 @@
 # MakeCode Documentation
 
+## PAGES
+* [Home](/)
+* [Scripts](/scripts/)
+
 ### This repo is just documentation for an arcade machine that [Milo](https://github.com/melonkgur), [Justin](https://github.com/Jbay33), and [I](https://github.com/mpot05) helped make in highschool (2023/2024)
 
 useful links:
