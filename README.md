@@ -6,6 +6,16 @@
 
 To start, you should check out the [guide](/GUIDE.md).
 
+If you're just here to learn about this project, feel free to stick around. 
+
+## About the project
+
+Upon the discovery of Microsoft's MakeCode Arcade, our teacher had the idea to make an actual arcade cabinet to play student-made games on. At first, we weren't sure if it was even possible, but we persevered—and ended up making something pretty cool.
+
+The cabinet is powered by a Rasberry Pi with a custom joystick/gamepad board. After a breif detour to ubuntu, we settled on running Raspbian (aka Raspberry Pi OS). We also switched browsers several times: first to a custom webview, then to Firefox, and finally to Mercury (a heavily optimized version of Firefox), running a MakeCode kiosk page. 
+
+The setup that we landed on has the least amount of lag out of any of the other things that we have tried.
+
 ## General links
 
 useful links:
@@ -31,7 +41,13 @@ That concludes general setup with an already setup machine and games.
 
 ## Things we tried (that didn't work)
 
-### webview browser
+### Operating system
+
+We started with Ubuntu since we wanted to be able to have a full set of features built in—however, as we got further into the project, we eventually realized that Ubuntu was just too laggy and unstable, so we switch to arch. 
+
+That didn't last very long though, (seeing as we couldn't even set up X11) so we quickly switched all the way back to Raspbian (Raspberry Pi OS).
+
+### Webview browser
 
 Initially, we had assumed that it would be best to run the makecode window in its own custom app/webview. This was to allow for greater control over the app as well as (what we assumed would be) better performance. 
 
