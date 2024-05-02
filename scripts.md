@@ -1,5 +1,9 @@
 # Scripts
 
+## PAGES
+* [Home](/README.md)
+* [Scripts](#)
+
 To get the cabinet to work, two scripts have to be written to:
 * `.bashrc`
 * `mercury_loader.sh`
