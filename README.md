@@ -1,13 +1,12 @@
 # MakeCode Documentation
 
-## PAGES
-* [Home](#)
-* [Guide](/GUIDE.md)
-* [Browser Setup](/BROWSER.md)
-* [Scripts](/SCRIPTS.md)
-* [Construction](/CONSTRUCTION.md)
-
 ### This repo is just documentation for an arcade machine that [Milo](https://github.com/melonkgur), [Justin](https://github.com/Jbay33), [and I](https://github.com/mpot05) helped make in highschool (2023/2024)
+
+## Get started
+
+To start, you should check out the [guide](/GUIDE.md).
+
+## General links
 
 useful links:
 
