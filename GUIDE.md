@@ -1,6 +1,12 @@
 # Guide - how to setup the machine from scratch
 
-### Raspberry pi setup
+### Guide Shortcuts
+
+* [Browser Setup](/BROWSER.md)
+* [Script Setup](/SCRIPTS.md)
+* [Case construction](/CONSTRUCTION.md)
+
+## Raspberry pi setup
 
 Assuming it's still using a raspberry pi 4, this should all apply.
 
