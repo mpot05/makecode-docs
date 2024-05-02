@@ -43,7 +43,7 @@ That concludes general setup with an already setup machine and games.
 
 ### Operating system
 
-We started with Ubuntu since we wanted to be able to have a full set of features built in—however, as we got further into the project, we eventually realized that Ubuntu was just too laggy and unstable, so we switch to arch. 
+We started with Ubuntu since we wanted to be able to have a full set of features built in—however, as we got further into the project, we eventually realized that Ubuntu was just too laggy and unstable, so we switched to arch. 
 
 That didn't last very long though, (seeing as we couldn't even set up X11) so we quickly switched all the way back to Raspbian (Raspberry Pi OS).
 
