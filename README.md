@@ -2,11 +2,13 @@
 
 ### This repo is just documentation for an arcade machine that I helped make in highschool
 
-MakeCode Site: <https://arcade.makecode.com>
+useful links:
 
-MakeCode Kiosk Site: <https://arcade.makecode.com/kiosk>
+[MakeCode Arcade](https://arcade.makecode.com)
 
-General setup link: <https://arcade.makecode.com/hardware/kiosk>
+[MakeCode Arcade Kiosk Page](https://arcade.makecode.com/kiosk)
+
+[General Kiosk Setup Page](https://arcade.makecode.com/hardware/kiosk)
 
 MakeCode's Kiosk version has a few options. These options are added at the end of the URL. 
 These options are: 
@@ -27,13 +29,13 @@ That concludes general setup with an already setup machine and games.
 
 Assuming it's still using a raspberry pi 4, this should all apply.
 
-Download an image of the raspberry pi operating system <https://www.raspberrypi.com/software/>.
+Download an image of the [raspberry pi operating system](https://www.raspberrypi.com/software/).
 
 Take that raspberry pi image and flash the micro sd with something like [BalenaEtcher](https://etcher.balena.io/) or [Raspberry pi imager](https://www.raspberrypi.com/software/).
 
 Once you have the image installed on the micro sd card and boot up the raspberry pi, you'll need a keyboard and preferrably a mouse for setup.
 
-Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages (make sure to download the ARM64.deb version since raspberry pi 4 uses an ARM cpu).
+Preferrably, use a more optimized browser like [mercury](https://github.com/Alex313031/Mercury/releases) to launch these webpages (make sure to download the `ARM64.deb` version since raspberry pi 4 uses an ARM cpu and its os is based on debian).
 
 ###### Short note: To install mercury, go to the downloads folder in a terminal after downloading the latest ARM64 release and run the following command: 
 
