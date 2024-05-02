@@ -1,9 +1,6 @@
 # Browser setup
 
-## PAGES 
-* [Home](/README.md)
-* [Browser Setup](#)
-* [Scripts](/SCRIPTS.md)
+*This page assumes that you are using a firefox-based browser. If you are not, then your browser's respective settings should be changed instead.*
 
 After installing mercury, there are a few settings that you need to adjust before setting up the scripts. 
 
@@ -19,7 +16,7 @@ This should open up a popup, where you have to change "Block Audio" to "Allow Au
 
 ![autoplay popup dropdown](assets/autoplay-popup-allow.png)
 
-Finally, press "Save Changes". Everything should be ready to go. 
+Finally, press "Save Changes". Everything should be ready to go. You can now move on to [setting up the scripts](/SCRIPTS.md).
 
 ## Discussion
 
