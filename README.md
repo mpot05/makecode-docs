@@ -12,6 +12,8 @@ If you're just here to learn about this project, feel free to stick around.
 
 Upon the discovery of Microsoft's MakeCode Arcade, our teacher had the idea to make an actual arcade cabinet to play student-made games on. At first, we weren't sure if it was even possible, but we persevered—and ended up making something pretty cool.
 
+![arcade cabinet](assets/arcade-cabinet.jpg)
+
 The cabinet is powered by a Rasberry Pi with a custom joystick/gamepad board. After a breif detour to ubuntu, we settled on running Raspbian (aka Raspberry Pi OS). We also switched browsers several times: first to a custom webview, then to Firefox, and finally to Mercury (a heavily optimized version of Firefox), running a MakeCode kiosk page. 
 
 The setup that we landed on has the least amount of lag out of any of the other things that we have tried.
